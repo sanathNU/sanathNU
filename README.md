@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wackyboi
+- 👋 Hi, I’m Sanath
 - 👀 I’m interested in Computer Architecture, Computer Networks, Machine Learning, VLSI, Linux 
 - 🌱 I’m currently learning Verilog, HTML and Intermediate Python.
 
