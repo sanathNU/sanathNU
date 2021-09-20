@@ -2,7 +2,7 @@
 - 👀 I’m interested in various topics including Computer Architecture, Computer Networks,VLSI, Verilog, Machine Learning and AI.
 -    I'm a huge avid linux enthusiast and I like learning about it
 - 🌱 I’m currently learning Verilog, HTML and Intermediate Python.
-- Personal Blogging Website https://iditoicramblings.blogspot.com/
+- Personal Blogging Website --> https://iditoicramblings.blogspot.com/ \
 Always motivated to learn something new. Would love to work on new exciting projects! 
 <!---
 wackyboi/wackyboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
