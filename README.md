@@ -1,5 +1,5 @@
 # Hi, I’m Sanath :wave:
-I'm an enginner. I apply my skills to solve awesome theoretical problems that would move humanity towards a greater future! ♾️
+I'm an enginner. I apply my skills to solve interesting problems that would move humanity towards a greater future! ♾️
 A technophile, who's always motivated to learn something new. Would love to work on new exciting projects!
 
 ## Programming Languages
