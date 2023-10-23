@@ -1,5 +1,5 @@
 # Hi, I’m Sanath :wave:
-I'm an enginner. I apply my skills to solve interesting problems that would move humanity towards a greater future! ♾️
+Software Dev. I apply my skills to solve interesting problems that would move humanity towards a greater future! ♾️
 A technophile, who's always motivated to learn something new. Would love to work on new exciting projects!
 
 ## Programming Languages
@@ -14,6 +14,6 @@ A technophile, who's always motivated to learn something new. Would love to work
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathNU&color=brightgreen" alt="sanathNU" /> </p>
 
 <!---
-wackyboi/wackyboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sanathNU/sanathNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
