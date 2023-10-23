@@ -1,10 +1,5 @@
 # Hi, I’m Sanath :wave:
-Software Dev. I apply my skills to solve interesting problems that would move humanity towards a greater future! ♾️
-A technophile, who's always motivated to learn something new. Would love to work on new exciting projects!
-
-## Programming Languages
-:white_check_mark: **Python**
-:white_check_mark: **C/C++**
+Software Dev. Optimized for pessimism. Built to build software. Technophile v1.7 
 
 ## Profile Statistics
 
