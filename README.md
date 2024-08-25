@@ -1,5 +1,5 @@
 # Hi, I’m Sanath :wave:
-Software Dev. Optimized for pessimism. Built to build software. Technophile v2.3 
+Software Dev. Optimized for pessimism. Built to build intersting software. Technophile v2.4
 
 ## Profile Statistics
 
