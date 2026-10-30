@@ -1,12 +1,12 @@
 # Hi, I’m Sanath :wave:
-Welcome to Santified!
-Software Dev. Optimized for pessimism. Built to build intersting software. Technophile v2.5
+Welcome to [Santified](https://sanathnu.github.io/)!
+Software Dev. Optimized for pessimism. Built to build interesting software. Technophile v2.6
+
+Polished things live at Santified. The unpruned ones grow in my
+[digital garden](https://sanathnu.github.io/TechnicaInsania/) (ತೋಟ).
 
 ## Profile Statistics
 
-[![Sanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanathNU&show_icons=true&theme=dark&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanathNU&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)</br>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathNU&color=brightgreen" alt="sanathNU" /> </p>
 
 <!---
